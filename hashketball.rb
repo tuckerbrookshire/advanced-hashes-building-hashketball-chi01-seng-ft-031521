@@ -2,10 +2,10 @@ def game_hash
    { 
      home: 
       { team_name: "Brooklyn Nets", 
-        colors:[""], 
+        colors:["Black", "White"], 
         players: [
           {
-            player_name: 
+            player_name: ""
             number:
             shoe:
             points:
@@ -16,7 +16,7 @@ def game_hash
             slam_dunks:
           }
           {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -27,7 +27,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -38,7 +38,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -49,7 +49,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -60,7 +60,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -77,7 +77,7 @@ def game_hash
         colors:[""], 
         players: [
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -88,7 +88,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -99,7 +99,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -110,7 +110,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -121,7 +121,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
@@ -132,7 +132,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name:
+            player_name: ""
             number:
             shoe:
             points:
