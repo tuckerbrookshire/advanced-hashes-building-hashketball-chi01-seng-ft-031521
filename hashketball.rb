@@ -16,7 +16,7 @@ def game_hash
             slam_dunks: 1
           },
           {
-            player_name: "",
+            player_name: "Reggie Evans",
             number:
             shoe:
             points:
@@ -27,7 +27,7 @@ def game_hash
             slam_dunks:
             },
             {
-            player_name: ""
+            player_name: "Brooke Lopez"
             number:
             shoe:
             points:
@@ -38,7 +38,7 @@ def game_hash
             slam_dunks:
             },
             {
-            player_name: ""
+            player_name: "Mason Plumlee"
             number:
             shoe:
             points:
@@ -49,18 +49,7 @@ def game_hash
             slam_dunks:
             }
             {
-            player_name: ""
-            number:
-            shoe:
-            points:
-            rebounds:
-            assists:
-            steals:
-            blocks:
-            slam_dunks:
-            },
-            {
-            player_name: ""
+            player_name: "Jason Terry"
             number:
             shoe:
             points:
