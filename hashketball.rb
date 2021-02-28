@@ -1,5 +1,4 @@
 def game_hash
-  {
-    away:
-    home: 
+    away: {}
+    home: {}
 end
