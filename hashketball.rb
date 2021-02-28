@@ -38,7 +38,7 @@ def game_hash
             slam_dunks: 15
             },
             {
-            player_name: "Mason Plumlee"
+            player_name: "Mason Plumlee",
             number: 1,
             shoe: 19,
             points: 26, 
@@ -49,7 +49,7 @@ def game_hash
             slam_dunks: 5,
             }
             {
-            player_name: "Jason Terry"
+            player_name: "Jason Terry",
             number: 31,
             shoe: 15,
             points: 19,
@@ -77,7 +77,7 @@ def game_hash
             slam_dunks: 2,
             },
             {
-            player_name: "Bismack Biyombo"
+            player_name: "Bismack Biyombo",
             number: 0,
             shoe: 16,
             points: 12,
@@ -98,7 +98,7 @@ def game_hash
             blocks: 5,
             slam_dunks: 5
             },
-         
+
             {
             player_name: "Ben Gordon",
             number: 8,
