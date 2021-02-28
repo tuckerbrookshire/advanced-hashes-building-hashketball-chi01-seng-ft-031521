@@ -1,4 +1,4 @@
 def game_hash
-    away: {}
-    home: {}
+    away: {team_name: "Charlotte Hornets"}
+    home: {team_name: "Brooklyn Nets"}
 end
